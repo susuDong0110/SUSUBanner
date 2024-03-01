@@ -1,6 +1,6 @@
 {
   "name": "susubanner",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     },
      "repository":{
     "type": "git",
-    "url": "https://github.com/susuDong0110/SUSUBanner/tree/main/SUSUBanner"
+    "url": "https://github.com/susuDong0110/SUSUBanner"
   },
   "license": "ISC", 
-  "homepage": "https://github.com/susuDong0110/SUSUBanner/tree/main/SUSUBanner"
+  "homepage": "https://github.com/susuDong0110/SUSUBanner"
 }
