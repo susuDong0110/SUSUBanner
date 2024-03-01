@@ -1,0 +1,21 @@
+{
+  "name": "susubanner",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "dependencies": {
+        "ionicons": "^*"
+    },
+     "repository":{
+    "type": "git",
+    "url": "https://github.com/susuDong0110/SUSUBanner/tree/main/SUSUBanner"
+  },
+  "license": "ISC", 
+  "homepage": "https://github.com/susuDong0110/SUSUBanner/tree/main/SUSUBanner"
+}
